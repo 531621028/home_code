@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code-common/code-common.iml" filepath="$PROJECT_DIR$/code-common/code-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-dao/code-dao.iml" filepath="$PROJECT_DIR$/code-dao/code-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-entity/code-entity.iml" filepath="$PROJECT_DIR$/code-entity/code-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-service/code-service.iml" filepath="$PROJECT_DIR$/code-service/code-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-web/code-web.iml" filepath="$PROJECT_DIR$/code-web/code-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home-code.iml" filepath="$PROJECT_DIR$/home-code.iml" />
+    </modules>
+  </component>
+</project>
